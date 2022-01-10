@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>yxyao.cn</id>
+    <title>yxiaoyao</title>
+    <updated>2022-01-10T10:10:35.159Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="yxyao.cn"/>
+    <link rel="self" href="yxyao.cn/atom.xml"/>
+    <rights>All rights reserved 2022, yxiaoyao</rights>
+    <entry>
+        <title type="html"><![CDATA[说书人]]></title>
+        <id>https://yxyao.cn/shuo-shu-ren</id>
+        <link href="https://yxyao.cn/shuo-shu-ren"/>
+        <updated>2021-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[”傍晚时分，远而望之，是已分不清为夕阳亦或鲜血染红大地······“随着台上说书先生的扇子合上，案板一拍，这故事算是告一段落。“欲知后事如何，且听下回分解。“
+台下听客且意犹未尽：”夫子此番为何如此之快，我等听客还未足耳瘾呢。“
+”今日家中...]]></summary>
+        <content type="html"><![CDATA[<pre><code>”傍晚时分，远而望之，是已分不清为夕阳亦或鲜血染红大地······“随着台上说书先生的扇子合上，案板一拍，这故事算是告一段落。“欲知后事如何，且听下回分解。“
+台下听客且意犹未尽：”夫子此番为何如此之快，我等听客还未足耳瘾呢。“
+”今日家中事急，愿诸位大气，且饶老夫一回他日再作补偿。“先生拱手辞谢。
+这里镇上的一家小茶楼，平日里生意不温不火，上座的基本上都是老客。要说这茶楼里能勾住这一群回头客的东西，就当属这说书的。每天没别的事，总是要上这茶楼叫上一壶茶，配点小吃，一听就是半个天过去了。要是赶上哪天没去或说书的没来，那心里可是痒着、挂念着。
+辞谢后，说书人带上他的家当——折扇、案板，还有一捆上了年月的卷子——每当他记不住的时候就要摊开来看一眼再接着讲，而每当这时候台下的人也总要笑话他一番。
+折扇他是总要拿在手里的，也颇有一番书生气。
+出了茶楼，自然是往东街的酒家走去，照旧买上一壶烧酒，提在手上再舞者扇子悠哉的往家走。这一路上哼着曲子，悠哉闲哉地看着街两旁的行人，熙熙攘攘，虽已日近西山。
+出了镇子再行一里便是田野，田上还有不少人在忙着，这个时节已是夏末秋初，稻子渐呈金黄，稻田之中此时也是蛙声一片。</code></pre>
+]]></content>
+    </entry>
+</feed>
